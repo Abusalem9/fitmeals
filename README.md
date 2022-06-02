@@ -18,7 +18,7 @@ During the project, we divided our work among ourselves and we played our part v
 # Tech Stack & Tools :
 These are the technologies used in this project which are available below with their packages and websites:
 
-* [PepperFry](https://www.fitmeals.com/ "home") Images (From Original Website) 
+* [PepperFry](https://www.fitmeals.co.in/) Images (From Original Website) 
 
 * [GoogleFonts](https://fonts.google.com/ "home") (Font Styles, Font Family)
 
