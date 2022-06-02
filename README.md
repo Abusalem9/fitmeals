@@ -1,8 +1,12 @@
 # Project :
 
-## Steps to run the Project
-
 ## Pepper-Fry-Clone
+
+# Steps to run the Project:
+1. clone the Repository
+2. Run the index.html file
+3. vist localhost:3000/
+4. 
 # Collaborator :
 This is a collaborative Project from Masai School in the Construct Week by FW-16 batch students. We are six members of the team:
 1. Kalash
