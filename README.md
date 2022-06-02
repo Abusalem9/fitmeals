@@ -18,13 +18,15 @@ This is a collaborative Project from Masai School in the Construct Week by FW-16
 # info :
 Fitmeal – Healthy Food and Nutrition WordPress Theme created especially for Food Delivery, Healthy Food, Fitness Diet, Organic Food Store, Courier Service Nutritionist, Health Coach, Health Diet, Fitness Meal, Smoothie Bar and Business Lunch Delivery.
 
+## Snapshot :
+<img src="https://www.membroz.com/wp-content/uploads/2020/03/thumb_FitMeal-home.jpg" style="width:40%;height:90%">
 # Challenges :
 During the project, we divided our work among ourselves and we played our part very well.
 
 # Tech Stack & Tools :
 These are the technologies used in this project which are available below with their packages and websites:
 
-* [PepperFry](https://www.fitmeals.co.in/) Images (From Original Website) 
+* [Fitmeals](https://www.fitmeals.co.in/) Images (From Original Website) 
 
 * [GoogleFonts](https://fonts.google.com/ "home") (Font Styles, Font Family)
 
