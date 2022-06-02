@@ -1,4 +1,7 @@
 # Project :
+
+## Steps to run the Project
+
 ## Pepper-Fry-Clone
 # Collaborator :
 This is a collaborative Project from Masai School in the Construct Week by FW-16 batch students. We are six members of the team:
