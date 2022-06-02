@@ -2,15 +2,15 @@
 ## Pepper-Fry-Clone
 # Collaborator :
 This is a collaborative Project from Masai School in the Construct Week by FW-16 batch students. We are six members of the team:
-1. Abusalem
-2. Akhil
+1. Kalash
+2. Abusalem
 3. Alim
-4. Bhushan
-5. Harshada
-6. Rupesh
+4. Papil
+5. Prathmash
+6. Abhishek
 
 # info :
-Firstly let’s know about Pepperfry. It is an Indian online marketplace for furniture and home décor. The company was formed by Ex-eBay executives Ambareesh Murty and Ashish Shah. They started Pepperfry in Mumbai in 2012. The company is headquartered in Mumbai, Maharashtra, and operates as a subsidiary of Trendsutra Platform Services Private Limited.
+Fitmeal – Healthy Food and Nutrition WordPress Theme created especially for Food Delivery, Healthy Food, Fitness Diet, Organic Food Store, Courier Service Nutritionist, Health Coach, Health Diet, Fitness Meal, Smoothie Bar and Business Lunch Delivery.
 
 # Challenges :
 During the project, we divided our work among ourselves and we played our part very well.
@@ -18,7 +18,7 @@ During the project, we divided our work among ourselves and we played our part v
 # Tech Stack & Tools :
 These are the technologies used in this project which are available below with their packages and websites:
 
-* [PepperFry](https://www.pepperfry.com/ "home") Images (From Original Website) 
+* [PepperFry](https://www.fitmeals.com/ "home") Images (From Original Website) 
 
 * [GoogleFonts](https://fonts.google.com/ "home") (Font Styles, Font Family)
 
@@ -27,10 +27,10 @@ These are the technologies used in this project which are available below with t
 * For database -Local storage
 
 # Netlify Link :
-[Netlify](https://calm-medovik-173f90.netlify.app/)
+[Netlify](https://cloneoffitmeals.netlify.app/)
 
 # Blog Link :
-[Medium](https://medium.com/@harshadajagtap199725/clone-of-pepperfry-com-32c061cb366b)
+[Medium](https://medium.com/@thakurkalash11/fitmeals-clone-project-masai-school-1811eb5e9385)
 ## Big Thanks..
 #### Thank You [MasaiSchool](https://www.masaischool.com/ "home") 
 
